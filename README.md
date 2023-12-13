@@ -1,1 +1,1 @@
-# Atividade-Pra-tica-02---L-gica-simples-e-estruturas
+# Atividade-Pratica-02-Logica-simples-e-estruturas
